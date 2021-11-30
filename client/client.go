@@ -8,8 +8,8 @@ import (
 	"os"
 	"strings"
 
-	quic "github.com/shravan9912/frontend"
-	mpqConstants "github.com/shravan9912/frontend/constants"
+	quic "github.com/shravan9912/backend"
+	mpqConstants "github.com/shravan9912/backend/constants"
 
 	"github.com/shravan9912/frontend/common"
 	"github.com/shravan9912/frontend/constants"
